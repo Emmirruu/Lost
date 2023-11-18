@@ -29,3 +29,10 @@ The primary constraining aspect of this game is the puzzles. Players need to sol
 ![Level Design - Level 1](https://github.com/Emmirruu/Lost/assets/151269434/959fea95-77f3-4679-9a16-63924f259ff4)
 ![Level Design - Level 2](https://github.com/Emmirruu/Lost/assets/151269434/a16e5ec2-ea01-4013-9dd7-299950583cd5)
 ![image](https://github.com/Emmirruu/Lost/assets/151269434/c07dc2fc-a268-4c3b-b54e-b57c4b3fc84e)
+
+# Game
+[Under Development]
+
+## Disclaimer
+Game Assets are made by the Developer himself. 
+
