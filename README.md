@@ -1,14 +1,14 @@
 # LOST
-![image](https://github.com/Emmirruu/LOST/assets/151269434/e9b2fec0-c6cf-43c8-9728-159f99fffeac)
+![Title Menu](https://github.com/Emmirruu/Lost/assets/151269434/a5202eef-a82f-4a73-a57f-ae713225edb6)
 ## Synopsis
 After seeing his owner leave the house in the middle of the night, the dog follows it and ends up lost in a mysterious enchanted-like forest. Not knowing where to go or look for its owner, what will happen to the dog?
 ## Theme and Genre
 1 Player 2D Platformer, A Dog Lost in an Enchanted Place, Spirited Away
 
 ## Mechanics
-![ewan](https://github.com/Emmirruu/LOST/assets/151269434/9ec70bf8-f252-43a4-ac9f-ec18576a3101)
+![ewan](https://github.com/Emmirruu/Lost/assets/151269434/e80962f2-49b0-44e1-aab3-4bf075cd79a5)
 ### Gameplay
-![image](https://github.com/Emmirruu/LOST/assets/151269434/23f1da84-ab83-4770-b58d-000da8231649)
+![25](https://github.com/Emmirruu/Lost/assets/151269434/e6c645a7-c8e9-4495-b150-8a8230e56b40)
 
 Like any other Side-Scrolling Platformer game, the basic mechanics of Lost relies on platforming through up, down, left, and right movement. Sprinting will automatically trigger through acceleration.
 
@@ -16,16 +16,16 @@ Like any other Side-Scrolling Platformer game, the basic mechanics of Lost relie
 #### Abilities
 To let the players empathize more with the character, there are 2 main abilities in this game: Heightened Sense of Smell and Hearing. 
 
-![image](https://github.com/Emmirruu/LOST/assets/151269434/b19bacdf-c811-4b22-b9fe-31fd14c418bf)
-![image](https://github.com/Emmirruu/LOST/assets/151269434/33ebd812-28e3-4d09-90d7-f106c71ee5f3)
+![26](https://github.com/Emmirruu/Lost/assets/151269434/8ba268eb-3ed1-4f26-ad7e-989b91f9ce55)
+![27](https://github.com/Emmirruu/Lost/assets/151269434/987d0e4f-b258-4c03-8aea-c2b9080f3c8b)
 
 #### Constraints
 The primary constraining aspect of this game is the puzzles. Players need to solve puzzles in order to progress to the story or collect miscellaneous items. Besides the puzzles, Obstacles and Hostile Entities will also cause the player to delay their progress.
 
-![image](https://github.com/Emmirruu/LOST/assets/151269434/20a5a7de-d469-4a7e-8d8b-ca0569d85feb)
-![image](https://github.com/Emmirruu/LOST/assets/151269434/37efbcf1-4fcd-49d2-a39e-0fa05debd3c2)
+![28](https://github.com/Emmirruu/Lost/assets/151269434/13a77baa-c9f2-4d90-bedf-7d7052b4f92d)
+![29](https://github.com/Emmirruu/Lost/assets/151269434/d500ddd3-ba95-44a9-b00b-43ef5036082e)
 
 ### Snapshots
-![sample2](https://github.com/Emmirruu/LOST/assets/151269434/bf0e1eb6-9893-416c-a354-439cacd652e3)
-![bg](https://github.com/Emmirruu/LOST/assets/151269434/e699cdfe-5d95-463b-9323-10b1e2aad562)
-![image](https://github.com/Emmirruu/LOST/assets/151269434/b2c76cb7-6438-4671-ad44-4e9e616aa5aa)
+![Level Design - Level 1](https://github.com/Emmirruu/Lost/assets/151269434/959fea95-77f3-4679-9a16-63924f259ff4)
+![Level Design - Level 2](https://github.com/Emmirruu/Lost/assets/151269434/a16e5ec2-ea01-4013-9dd7-299950583cd5)
+![image](https://github.com/Emmirruu/Lost/assets/151269434/c07dc2fc-a268-4c3b-b54e-b57c4b3fc84e)
