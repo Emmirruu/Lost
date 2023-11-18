@@ -25,6 +25,9 @@ The primary constraining aspect of this game is the puzzles. Players need to sol
 ![28](https://github.com/Emmirruu/Lost/assets/151269434/13a77baa-c9f2-4d90-bedf-7d7052b4f92d)
 ![29](https://github.com/Emmirruu/Lost/assets/151269434/d500ddd3-ba95-44a9-b00b-43ef5036082e)
 
+## Assets
+https://www.figma.com/file/CfBaE33hRd7lom5TmSVIo4/%22Lost%22-Assets?type=design&node-id=3%3A413&mode=design&t=z5ML9iIz56P0qCo3-1 
+
 ### Snapshots
 ![Level Design - Level 1](https://github.com/Emmirruu/Lost/assets/151269434/959fea95-77f3-4679-9a16-63924f259ff4)
 ![Level Design - Level 2](https://github.com/Emmirruu/Lost/assets/151269434/a16e5ec2-ea01-4013-9dd7-299950583cd5)
