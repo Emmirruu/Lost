@@ -26,7 +26,10 @@ The primary constraining aspect of this game is the puzzles. Players need to sol
 ![29](https://github.com/Emmirruu/Lost/assets/151269434/d500ddd3-ba95-44a9-b00b-43ef5036082e)
 
 ## Assets
-https://www.figma.com/file/CfBaE33hRd7lom5TmSVIo4/%22Lost%22-Assets?type=design&node-id=3%3A413&mode=design&t=z5ML9iIz56P0qCo3-1 
+![Assets - Environment 1B](https://github.com/Emmirruu/Lost/assets/151269434/9f69c472-98c5-4260-ac50-c7d31f025bf3)
+![blushingCrypt](https://github.com/Emmirruu/Lost/assets/151269434/6fd35d1b-8bfe-42da-9736-c532f98b2c21)
+
+[Figma](https://www.figma.com/file/CfBaE33hRd7lom5TmSVIo4/%22Lost%22-Assets?type=design&node-id=3%3A413&mode=design&t=z5ML9iIz56P0qCo3-1) 
 
 ### Snapshots
 ![Level Design - Level 1](https://github.com/Emmirruu/Lost/assets/151269434/959fea95-77f3-4679-9a16-63924f259ff4)
